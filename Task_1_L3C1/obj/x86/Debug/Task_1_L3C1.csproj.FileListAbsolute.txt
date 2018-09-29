@@ -1,0 +1,5 @@
+C:\Users\Роман\Documents\Visual Studio 2010\Projects\Home_Work_L3C1_Roman_Rozyev\Task_1_L3C1\bin\Debug\Task_1_L3C1.exe
+C:\Users\Роман\Documents\Visual Studio 2010\Projects\Home_Work_L3C1_Roman_Rozyev\Task_1_L3C1\bin\Debug\Task_1_L3C1.pdb
+C:\Users\Роман\Documents\Visual Studio 2010\Projects\Home_Work_L3C1_Roman_Rozyev\Task_1_L3C1\obj\x86\Debug\Task_1_L3C1.csprojResolveAssemblyReference.cache
+C:\Users\Роман\Documents\Visual Studio 2010\Projects\Home_Work_L3C1_Roman_Rozyev\Task_1_L3C1\obj\x86\Debug\Task_1_L3C1.exe
+C:\Users\Роман\Documents\Visual Studio 2010\Projects\Home_Work_L3C1_Roman_Rozyev\Task_1_L3C1\obj\x86\Debug\Task_1_L3C1.pdb
